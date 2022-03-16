@@ -1,4 +1,4 @@
-package Stash;
+package Stash_Demo.src.Stash;
 
 public class origin {
 public static void main(String[] args) {
